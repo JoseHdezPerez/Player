@@ -12,7 +12,7 @@ import game.Game;
  */
 
 //TobiKadachiVSDarkzakest
-//Proki se unió a la pelea
+//Proki se unió a la peleaaaaaaaaaaaaa
 public class Player {
     int x, y;
     
