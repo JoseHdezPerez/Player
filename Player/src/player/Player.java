@@ -12,6 +12,7 @@ import game.Game;
  */
 
 //TobiKadachiVSDarkzakest
+//Proki se unió a la pelea
 public class Player {
     int x, y;
     
