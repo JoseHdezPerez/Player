@@ -10,6 +10,8 @@ import game.Game;
  *
  * @author jmllamasg
  */
+
+//TobiKadachiVSDarkzakest
 public class Player {
     int x, y;
     
